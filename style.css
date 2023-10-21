@@ -15,6 +15,17 @@ body{
     text-align: left;
 }
 
+.home {
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.navegacao{
+    text-decoration: none;
+    color: red;
+}
+
+
 .rodape{
     background-color: #24292e;
     margin-top: 820px;
