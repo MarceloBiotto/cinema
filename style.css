@@ -20,26 +20,37 @@ body{
 .home {
     font-size: 24px;
     text-decoration: none;
+    font-family: Arial;
+    color: seagreen;
 }
 
 .navegacao{
     text-decoration: none;
-    color: red;
+    color: seagreen;
+    text-align: center;
+    font-family: arial;
 }
 
 .cidade{
     font-size: 24px;
     padding: 16px;
+    margin: 18px;
+    font-family: arial;
 }
 .filmes-cartaz{
     text-align: center;
+    font-family: arial;
 }
 .filmeHoje{
     color: darkred;
+    font-size: 20px;
+    font-family: arial;
 }
 
 .filmeAmanha{
     color: darkblue;
+    font-size: 20px;
+    font-family: arial;
 }
 
 .rodape{
@@ -49,4 +60,6 @@ body{
     color: white;
     text-align: center;
     font-size: 32px;
+    align-items: center;
+    font-family: arial;
 }
