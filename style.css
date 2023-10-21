@@ -1,6 +1,8 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+    
 
 }
 
@@ -25,11 +27,25 @@ body{
     color: red;
 }
 
+.cidade{
+    font-size: 24px;
+    padding: 16px;
+}
+.filmes-cartaz{
+    text-align: center;
+}
+.filmeHoje{
+    color: darkred;
+}
+
+.filmeAmanha{
+    color: darkblue;
+}
 
 .rodape{
     background-color: #24292e;
     margin-top: 820px;
-    height: 100px;
+    height: 125px;
     color: white;
     text-align: center;
     font-size: 32px;
