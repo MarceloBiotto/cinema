@@ -1,5 +1,25 @@
 * {
     margin: 0;
     padding: 0;
-    
+
+}
+
+body{
+   background-color: rgb(201, 197, 197);
+}
+
+.header__home{
+    background-color: #008d61;
+    font-size: 5.2rem;
+    color: #fff;
+    text-align: left;
+}
+
+.rodape{
+    background-color: #24292e;
+    margin-top: 820px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    font-size: 32px;
 }
