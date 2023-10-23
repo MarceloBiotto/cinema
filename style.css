@@ -58,8 +58,13 @@ body{
     margin-top: 820px;
     height: 125px;
     color: white;
-    text-align: center;
     font-size: 32px;
-    align-items: center;
     font-family: arial;
+    justify-content: center;
+}
+
+.fale{
+    text-align: center;
+  align-items: center;
+    padding: 32px;
 }
